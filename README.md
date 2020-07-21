@@ -1,4 +1,6 @@
-### Hi there 👋
+### 招人！！！ 👋
+
+极度缺人中，有没有想来一起写代码的，具体内容见 [字节跳动-校招&社招-必读](https://bytedance.feishu.cn/docs/doccn2X46yfEcX5ybWnqM9oWZxd)
 
 <!--
 **PanJiaChen/PanJiaChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
